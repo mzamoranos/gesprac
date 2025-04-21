@@ -1,0 +1,15 @@
+# Node modules
+**/node_modules/
+
+# Entornos
+.env
+
+# Producción de Vite/React
+dist/
+build/
+
+# Logs
+*.log
+
+# Base de datos local
+*.sqlite
